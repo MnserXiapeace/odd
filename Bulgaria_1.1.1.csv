@@ -1,0 +1,340 @@
+goal;target;indicator;series;seriesDescription;seriesCount;geoAreaCode;geoAreaName;timePeriodStart;value;valueType;time_detail;timeCoverage;upperBound;lowerBound;basePeriod;source;geoInfoUrl;footnotes;attributes;dimensions
+['1'];['1.1'];['1.1.1'];SI_POV_DAY1;"Proportion of
+population below
+international poverty
+line (%)";10284;100;Bulgaria;2006;5.8;Float;;;;;2017;"Poverty and
+Inequality
+Portal, World
+Bank";;"Accessed March 26,
+2024. Based on data
+from EU-SILC.
+Estimated from unit-
+record income data.";{'Nature': 'G'};"Age: ALLAGE
+Location:
+ALLAREA"
+['1'];['1.1'];['1.1.1'];SI_POV_DAY1;"Proportion of
+population below
+international poverty
+line (%)";10284;100;Bulgaria;2007;1.8;Float;;;;;2017;"Poverty and
+Inequality
+Portal, World
+Bank";;"Accessed March 26,
+2024. Based on data
+from EU-SILC.
+Estimated from unit-
+record income data.";{'Nature': 'G'};"Age: ALLAGE
+Location:
+ALLAREA"
+['1'];['1.1'];['1.1.1'];SI_POV_DAY1;"Proportion of
+population below
+international poverty
+line (%)";10284;100;Bulgaria;2008;1.3;Float;;;;;2017;"Poverty and
+Inequality
+Portal, World
+Bank";;"Accessed March 26,
+2024. Based on data
+from EU-SILC.
+Estimated from unit-
+record income data.";{'Nature': 'G'};"Age: ALLAGE
+Location:
+ALLAREA"
+['1'];['1.1'];['1.1.1'];SI_POV_DAY1;"Proportion of
+population below
+international poverty
+line (%)";10284;100;Bulgaria;2009;1.3;Float;;;;;2017;"Poverty and
+Inequality
+Portal, World
+Bank";;"Accessed March 26,
+2024. Based on data
+from EU-SILC.
+Estimated from unit-
+record income data.";{'Nature': 'G'};"Age: ALLAGE
+Location:
+ALLAREA"
+['1'];['1.1'];['1.1.1'];SI_POV_DAY1;"Proportion of
+population below
+international poverty
+line (%)";10284;100;Bulgaria;2010;2;Float;;;;;2017;"Poverty and
+Inequality
+Portal, World
+Bank";;"Accessed March 26,
+2024. Based on data
+from EU-SILC.
+Estimated from unit-
+record income data.";{'Nature': 'G'};"Age: ALLAGE
+Location:
+ALLAREA"
+['1'];['1.1'];['1.1.1'];SI_POV_DAY1;"Proportion of
+population below
+international poverty
+line (%)";10284;100;Bulgaria;2011;2.5;Float;;;;;2017;"Poverty and
+Inequality
+Portal, World
+Bank";;"Accessed March 26,
+2024. Based on data
+from EU-SILC.
+Estimated from unit-
+record income data.";{'Nature': 'G'};"Age: ALLAGE
+Location:
+ALLAREA"
+['1'];['1.1'];['1.1.1'];SI_POV_DAY1;"Proportion of
+population below
+international poverty
+line (%)";10284;100;Bulgaria;2012;2.3;Float;;;;;2017;"Poverty and
+Inequality
+Portal, World
+Bank";;"Accessed March 26,
+2024. Based on data
+from EU-SILC.
+Estimated from unit-
+record income data.";{'Nature': 'G'};"Age: ALLAGE
+Location:
+ALLAREA"
+['1'];['1.1'];['1.1.1'];SI_POV_DAY1;"Proportion of
+population below
+international poverty
+line (%)";10284;100;Bulgaria;2013;1.8;Float;;;;;2017;"Poverty and
+Inequality
+Portal, World
+Bank";;"Accessed March 26,
+2024. Based on data
+from EU-SILC.
+Estimated from unit-
+record income data.";{'Nature': 'G'};"Age: ALLAGE
+Location:
+ALLAREA"
+['1'];['1.1'];['1.1.1'];SI_POV_DAY1;"Proportion of
+population below
+international poverty
+line (%)";10284;100;Bulgaria;2014;1.7;Float;;;;;2017;"Poverty and
+Inequality
+Portal, World
+Bank";;"Accessed March 26,
+2024. Based on data
+from EU-SILC.
+Estimated from unit-
+record income data.";{'Nature': 'G'};"Age: ALLAGE
+Location:
+ALLAREA"
+['1'];['1.1'];['1.1.1'];SI_POV_DAY1;"Proportion of
+population below
+international poverty
+line (%)";10284;100;Bulgaria;2015;3.4;Float;;;;;2017;"Poverty and
+Inequality
+Portal, World
+Bank";;"Accessed March 26,
+2024. Based on data
+from EU-SILC.
+Estimated from unit-
+record income data.";{'Nature': 'G'};"Age: ALLAGE
+Location:
+ALLAREA"
+['1'];['1.1'];['1.1.1'];SI_POV_DAY1;"Proportion of
+population below
+international poverty
+line (%)";10284;100;Bulgaria;2015;2.54675;Float;;;;;2017;"Poverty and
+Inequality
+Portal, World
+Bank";;"Accessed March 26,
+2024. Survey name:
+EU-SILC. Uses an
+income aggregate,
+which is not
+spatially deflated.";{'Nature': 'G'};"Age: ALLAGE
+Location:
+ALLAREA"
+['1'];['1.1'];['1.1.1'];SI_POV_DAY1;"Proportion of
+population below
+international poverty
+line (%)";10284;100;Bulgaria;2015;7.99808;Float;;;;;2017;"Poverty and
+Inequality
+Portal, World
+Bank";;"Accessed March 26,
+2024. Survey name:
+EU-SILC. Uses an
+income aggregate,
+which is not
+spatially deflated.";{'Nature': 'G'};"Age: ALLAGE
+Location:
+ALLAREA"
+['1'];['1.1'];['1.1.1'];SI_POV_DAY1;"Proportion of
+population below
+international poverty
+line (%)";10284;100;Bulgaria;2015;3.63608;Float;;;;;2017;"Poverty and
+Inequality
+Portal, World
+Bank";;"Accessed March 26,
+2024. Survey name:
+EU-SILC. Uses an
+income aggregate,
+which is not
+spatially deflated.";{'Nature': 'G'};"Age: ALLAGE
+Location:
+ALLAREA"
+['1'];['1.1'];['1.1.1'];SI_POV_DAY1;"Proportion of
+population below
+international poverty
+line (%)";10284;100;Bulgaria;2015;3.41262;Float;;;;;2017;"Poverty and
+Inequality
+Portal, World
+Bank";;"Accessed March 26,
+2024. Survey name:
+EU-SILC. Uses an
+income aggregate,
+which is not
+spatially deflated.";{'Nature': 'G'};"Age: ALLAGE
+Location:
+ALLAREA"
+['1'];['1.1'];['1.1.1'];SI_POV_DAY1;"Proportion of
+population below
+international poverty
+line (%)";10284;100;Bulgaria;2015;0.11565;Float;;;;;2017;"Poverty and
+Inequality
+Portal, World
+Bank";;"Accessed March 26,
+2024. Survey name:
+EU-SILC. Uses an
+income aggregate,
+which is not
+spatially deflated.";{'Nature': 'G'};"Age: ALLAGE
+Location:
+ALLAREA"
+['1'];['1.1'];['1.1.1'];SI_POV_DAY1;"Proportion of
+population below
+international poverty
+line (%)";10284;100;Bulgaria;2015;3.42707;Float;;;;;2017;"Poverty and
+Inequality
+Portal, World
+Bank";;"Accessed March 26,
+2024. Survey name:
+EU-SILC. Uses an
+income aggregate,
+which is not
+spatially deflated.";{'Nature': 'G'};"Age: ALLAGE
+Location:
+ALLAREA"
+['1'];['1.1'];['1.1.1'];SI_POV_DAY1;"Proportion of
+population below
+international poverty
+line (%)";10284;100;Bulgaria;2015;5.18946;Float;;;;;2017;"Poverty and
+Inequality
+Portal, World
+Bank";;"Accessed March 26,
+2024. Survey name:
+EU-SILC. Uses an
+income aggregate,
+which is not
+spatially deflated.";{'Nature': 'G'};"Age: ALLAGE
+Location:
+ALLAREA"
+['1'];['1.1'];['1.1.1'];SI_POV_DAY1;"Proportion of
+population below
+international poverty
+line (%)";10284;100;Bulgaria;2016;5.09696;Float;;;;;2017;"Poverty and
+Inequality
+Portal, World
+Bank";;"Accessed March 26,
+2024. Survey name:
+EU-SILC. Uses an
+income aggregate,
+which is not
+spatially deflated.";{'Nature': 'G'};"Age: ALLAGE
+Location:
+ALLAREA"
+['1'];['1.1'];['1.1.1'];SI_POV_DAY1;"Proportion of
+population below
+international poverty
+line (%)";10284;100;Bulgaria;2016;1.89297;Float;;;;;2017;"Poverty and
+Inequality
+Portal, World
+Bank";;"Accessed March 26,
+2024. Survey name:
+EU-SILC. Uses an
+income aggregate,
+which is not
+spatially deflated.";{'Nature': 'G'};"Age: ALLAGE
+Location:
+ALLAREA"
+['1'];['1.1'];['1.1.1'];SI_POV_DAY1;"Proportion of
+population below
+international poverty
+line (%)";10284;100;Bulgaria;2016;1.81029;Float;;;;;2017;"Poverty and
+Inequality
+Portal, World
+Bank";;"Accessed March 26,
+2024. Survey name:
+EU-SILC. Uses an
+income aggregate,
+which is not
+spatially deflated.";{'Nature': 'G'};"Age: ALLAGE
+Location:
+ALLAREA"
+['1'];['1.1'];['1.1.1'];SI_POV_DAY1;"Proportion of
+population below
+international poverty
+line (%)";10284;100;Bulgaria;2016;0.31392;Float;;;;;2017;"Poverty and
+Inequality
+Portal, World
+Bank";;"Accessed March 26,
+2024. Survey name:
+EU-SILC. Uses an
+income aggregate,
+which is not
+spatially deflated.";{'Nature': 'G'};"Age: ALLAGE
+Location:
+ALLAREA"
+['1'];['1.1'];['1.1.1'];SI_POV_DAY1;"Proportion of
+population below
+international poverty
+line (%)";10284;100;Bulgaria;2016;2.13174;Float;;;;;2017;"Poverty and
+Inequality
+Portal, World
+Bank";;"Accessed March 26,
+2024. Survey name:
+EU-SILC. Uses an
+income aggregate,
+which is not
+spatially deflated.";{'Nature': 'G'};"Age: ALLAGE
+Location:
+ALLAREA"
+['1'];['1.1'];['1.1.1'];SI_POV_DAY1;"Proportion of
+population below
+international poverty
+line (%)";10284;100;Bulgaria;2016;2.97913;Float;;;;;2017;"Poverty and
+Inequality
+Portal, World
+Bank";;"Accessed March 26,
+2024. Survey name:
+EU-SILC. Uses an
+income aggregate,
+which is not
+spatially deflated.";{'Nature': 'G'};"Age: ALLAGE
+Location:
+ALLAREA"
+['1'];['1.1'];['1.1.1'];SI_POV_DAY1;"Proportion of
+population below
+international poverty
+line (%)";10284;100;Bulgaria;2016;1.48599;Float;;;;;2017;"Poverty and
+Inequality
+Portal, World
+Bank";;"Accessed March 26,
+2024. Survey name:
+EU-SILC. Uses an
+income aggregate,
+which is not
+spatially deflated.";{'Nature': 'G'};"Age: ALLAGE
+Location:
+ALLAREA"
+['1'];['1.1'];['1.1.1'];SI_POV_DAY1;"Proportion of
+population below
+international poverty
+line (%)";10284;100;Bulgaria;2016;2;Float;;;;;2017;"Poverty and
+Inequality
+Portal, World
+Bank";;"Accessed March 26,
+2024. Based on data
+from EU-SILC.
+Estimated from unit-
+record income data.";{'Nature': 'G'};"Age: ALLAGE
+Location:
+ALLAREA"
