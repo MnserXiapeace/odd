@@ -119,6 +119,6 @@ Le fichier sera enregistré avec le nom suivant :*
 
 ## Licence :
 
-Ce projet est sous licence `MIT`, developpé par .
+Ce projet est sous licence `MIT`, developpé par  Serge ADANDE.
 
 
